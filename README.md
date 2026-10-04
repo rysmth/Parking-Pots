@@ -4,7 +4,9 @@
 
 Parking Pots is a casual single player mobile game, reliant on motion controls. There are three stages that vary in difficulty and three unlockable costumes.
 
-<img src="preview-images/parking-pots-titlescreen.png" width="400" height="400" align="left"> <img src="preview-images/parking-pots-selectscreen.png" width="400" height="400" align="centre">
+<img src="preview-images/parking-pots-titlescreen.png" width="400" height="400" align="centre"> <img src="preview-images/parking-pots-selectscreen.png" width="400" height="400" align="centre">
+
+<img src="preview-gifs/parking-pots-gameplay.gif" width="400" height="195" align="centre"> <img src="preview-images/parking-pots-gameplay.png" width="400" height="400" align="centre">
 
 The objective is to collect all the baguettes while avoiding the traffic cones to reach the goals with each character.
 
